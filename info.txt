@@ -1,0 +1,35 @@
+[email]
+https://webmail.exchangecorp.com.br/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fwebmail.exchangecorp.com.br%2fowa%2f
+Devpartner@2019@
+
+Devops
+https://gitdevpartner.visualstudio.com/
+email
+anderson.ferreira.aeg@gmail.com
+senha
+aeg@??????
+
+https://gitdevpartner.visualstudio.com/Heineken%20Incentivos%20Execu%C3%A7%C3%A3o/_git/Heineken%20Incentivos%20Execu%C3%A7%C3%A3o
+
+https://gitdevpartner.visualstudio.com/heineken.incentivo/_git/heineken.incentivo%20-%20API
+
+select t1.UserName, t3.Name from aspnetusers t1
+inner join aspnetuserroles t2 on t1.Id = t2.UserId
+inner join aspnetroles t3 on t2.RoleId = t3.Id
+
+v3mp50p0211um
+
+danilo.macedo@devpartner.com.br1
+uyN758B2
+
+https://loginamer.bayer.biz/guest/bion-login-a.php?cmd=login&switchip=10.249.5.70&mac=f0:d5:bf:4e:83:f1&ip=10.136.174.152&essid=BION&apname=bsapnwwa5018d&apgroup=AMER-BR-SP-SAP-A&url=http%3A%2F%2Fgo%2Emicrosoft%2Ecom%2Ffwlink%2F%3FLinkID%3D219472%26clcid%3D0x409&_browser=1
+
+https://editor.swagger.io/
+
+
+credencial Bayer
+ELHME
+5ZV8MG4x
+
+5694 5111
+EUPKQ

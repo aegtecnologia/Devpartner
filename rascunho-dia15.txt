@@ -1,0 +1,10 @@
+referencia para client API
+https://docs.microsoft.com/pt-br/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client
+
+referencia do emulador cosmos
+https://docs.microsoft.com/pt-br/azure/cosmos-db/local-emulator
+
+216707
+
+hospedagem iis net core
+https://www.fabiosilvalima.net/iis-como-hospedar-aplicacao-net-core/
